@@ -1,2 +1,2 @@
 # Scientfic-Calculator
-Project Name Scientfic calculator for jawav
+Project Name Scientfic calculator for java
